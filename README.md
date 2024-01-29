@@ -13,9 +13,10 @@
 
 ※ Python은 3 버전을 이용합니다.
 
-파일 구성은 [이곳](https://github.com/Taeyoung96/Deep-learning-from-scratch)을 참고 하였습니다.
 
 ## 파일 구성
+
+파일 구성은 [이곳](https://github.com/Taeyoung96/Deep-learning-from-scratch)을 참고 하였습니다.
 
 ### Chapter3
 > - 계단 함수의 그래프 만들기
