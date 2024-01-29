@@ -4,6 +4,17 @@
 
 ([『밑바닥부터 시작하는 딥러닝』의 깃허브 저장소는 이곳](https://github.com/WegraLee/deep-learning-from-scratch)입니다.)
 
+## 요구사항
+소스 코드를 실행하려면 아래의 소프트웨어가 설치되어 있어야 합니다.
+
+* 파이썬 3.x
+* NumPy
+* Matplotlib
+
+※ Python은 3 버전을 이용합니다.
+
+파일 구성은 [이곳](https://github.com/Taeyoung96/Deep-learning-from-scratch)을 참고 하였습니다.
+
 ## 파일 구성
 
 ### Chapter3
@@ -86,11 +97,4 @@
 ### Chapter 8_2
 > - 수치 정밀도를 반정밀도(16비트)로 낮춰 계산하여 배정밀도(64비트)일 때와 정확도를 비교하기
 
-## 요구사항
-소스 코드를 실행하려면 아래의 소프트웨어가 설치되어 있어야 합니다.
 
-* 파이썬 3.x
-* NumPy
-* Matplotlib
-
-※ Python은 3 버전을 이용합니다.
