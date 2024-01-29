@@ -1,6 +1,6 @@
 # 『밑바닥부터 시작하는 딥러닝』
 
-이 저장소는 『[밑바닥부터 시작하는 딥러닝](http://www.hanbit.co.kr/store/books/look.php?p_code=B8475831198)』(한빛미디어, 2017)의 책을 보고 소스코드를 따라 쳐보고 주석을 달며 공부를 해보았습니다.  
+이 저장소는 『[밑바닥부터 시작하는 딥러닝](http://www.hanbit.co.kr/store/books/look.php?p_code=B8475831198)』(한빛미디어, 2017)의 책을 보고 소스코드를 따라 치며 추가적인 이해가 필요한 부분은 주석을 달아 공부한 것을 정리한 저장소입니다.
 
 ([『밑바닥부터 시작하는 딥러닝』의 깃허브 저장소는 이곳](https://github.com/WegraLee/deep-learning-from-scratch)입니다.)
 
